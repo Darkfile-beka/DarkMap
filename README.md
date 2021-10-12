@@ -13,7 +13,7 @@ Siz bu erni bosish orqali eng yangi tarbolni yoki bu erga bosish orqali eng so'n
 
 Tercihen, Git omborini klonlash orqali sqlmap -ni yuklab olishingiz mumkin:
 
-git klon-chuqurlik 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+git klon-chuqurlik 1 https://github.com/Darkfile-beka/DarkMap sqlmap-dev
 sqlmap har qanday platformada Python 2.6, 2.7 va 3.x versiyalari bilan ishlaydi.
 
 Foydalanish
