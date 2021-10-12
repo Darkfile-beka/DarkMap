@@ -1,6 +1,10 @@
 # DarkMap
 Python Programmma DarkMap.py
 
+O'rganish va rasmlarni ko'riosh
+
+https://drive.google.com/drive/folders/1l1zybs_0Zy9z_trZYz5R72WrwsE6mFOh?usp=sharing
+
 
 sqlmap - bu SQL in'ektsiya kamchiliklarini aniqlash va ulardan foydalanish va ma'lumotlar bazasi serverlarini o'z zimmasiga olish jarayonini avtomatlashtiruvchi ochiq manbali penetratsion test vositasi. U kuchli detektorli dvigatel, yakuniy kirishni tekshiruvchi uchun ko'plab tokcha funktsiyalari va ma'lumotlar bazasidan barmoq izini olish, ma'lumotlar bazasidan ma'lumotlarni olish, asosiy fayl tizimiga kirish va operatsion tizimdagi buyruqlarni tashqaridan boshqarish orqali o'z ichiga oladi. tarmoqli ulanishlar.
 
