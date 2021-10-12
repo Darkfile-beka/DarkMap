@@ -2,21 +2,25 @@
 Python Programmma DarkMap.py
 
 
-You can visit the collection of screenshots demonstrating some of the features on the wiki.
+sqlmap - bu SQL in'ektsiya kamchiliklarini aniqlash va ulardan foydalanish va ma'lumotlar bazasi serverlarini o'z zimmasiga olish jarayonini avtomatlashtiruvchi ochiq manbali penetratsion test vositasi. U kuchli detektorli dvigatel, yakuniy kirishni tekshiruvchi uchun ko'plab tokcha funktsiyalari va ma'lumotlar bazasidan barmoq izini olish, ma'lumotlar bazasidan ma'lumotlarni olish, asosiy fayl tizimiga kirish va operatsion tizimdagi buyruqlarni tashqaridan boshqarish orqali o'z ichiga oladi. tarmoqli ulanishlar.
 
-Installation
-You can download the latest tarball by clicking here or latest zipball by clicking here.
 
-Preferably, you can download sqlmap by cloning the Git repository:
 
-git clone --depth 1  sqlmap-dev
-sqlmap works out of the box with Python version 2.6, 2.7 and 3.x on any platform.
+Siz vikidagi ba'zi xususiyatlarni ko'rsatadigan ekran tasvirlari to'plamiga tashrif buyurishingiz mumkin.
 
-Usage
-To get a list of basic options and switches use:
+O'rnatish
+Siz bu erni bosish orqali eng yangi tarbolni yoki bu erga bosish orqali eng so'nggi zipbolni yuklab olishingiz mumkin.
+
+Tercihen, Git omborini klonlash orqali sqlmap -ni yuklab olishingiz mumkin:
+
+git klon-chuqurlik 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+sqlmap har qanday platformada Python 2.6, 2.7 va 3.x versiyalari bilan ishlaydi.
+
+Foydalanish
+Asosiy variantlar va kalitlarning ro'yxatini olish uchun quyidagilarni ishlating:
 
 python sqlmap.py -h
-To get a list of all options and switches use:
+Barcha variantlar va kalitlarning ro'yxatini olish uchun quyidagilarni ishlating:
 
 python sqlmap.py -hh
-You can find a sample run here. To get an overview of sqlmap capabilities, a list of supported features, and a description of all options and switches, along with examples, you are advised to consult the user's manual.
+Siz bu erda namunaviy namunani topishingiz mumkin. Sqlmap imkoniyatlari, qo'llab -quvvatlanadigan funktsiyalar ro'yxati, barcha variantlar va kalitlarning tavsifi, misollar bilan bir qatorda, foydalanuvchi qo'llanmasiga murojaat qilish tavsiya etiladi.
